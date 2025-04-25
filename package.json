@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "express": "latest",
+        "redis": "latest"
+    },
+    "scripts": {
+        "start": "node home.js"
+    }
+}
